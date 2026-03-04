@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "origamiのように",
+  "base_artist": "Susumu",
+  "createdAt": "2026-03-04T14:16:01.253326Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "origamiのように",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_origamiのように_susumu..txt"
+    }
+  ]
+}
